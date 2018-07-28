@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/Jeev/go/src/github.com/streddy/go-fish/structs'
+let g:netrw_dirhist_2='/Users/Jeev/go/src/github.com/kpister/go2wrk'
+let g:netrw_dirhist_3='/Users/Jeev/go/src/github.com/kpister/go2wrk/https'
+let g:netrw_dirhist_4='/Users/Jeev/go/src/github.com/kpister/go2wrk'
