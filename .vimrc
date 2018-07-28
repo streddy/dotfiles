@@ -32,7 +32,7 @@ set hidden
 set wildmenu
 " highlight matching parenthesis/brace
 set showmatch
-" search chatacters as entered
+" search characters as entered
 set incsearch
 
 " set mouse functionality
